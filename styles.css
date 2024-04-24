@@ -1,0 +1,46 @@
+body {
+    margin: 20px 0px 20px 0px;
+    background-color: black;
+    font-family: "Roboto", roboto;
+}
+.container {
+    width: 100%; 
+    max-width: 600px;
+    margin: auto; 
+    background-color: white;
+}
+.container img {
+    width: 100%;
+    height: auto;
+}
+.image-p {
+    width: 600px!important;
+}
+.header-p {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    margin: 5px 15px 5px 15px;
+}
+
+.html5icon, .dots {
+    display: flex;              
+    align-items: center;
+}
+
+.footer-p {
+    padding: 15px;
+}
+.icons-p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 15px 5px 15px;
+}
+
+.icon-left i {
+    margin-right: 10px;
+}
+.html5icon i, p{
+    margin-right: 5px;
+}

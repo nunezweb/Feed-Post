@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     margin: 20px 0px 20px 0px;
     background-color: black;
     font-family: "Roboto", roboto;
@@ -43,4 +44,44 @@ body {
 }
 .html5icon i, p{
     margin-right: 5px;
+=======
+    background: #bdbdbd;
+    margin: 0;
+}
+div {
+    box-sizing: border-box;
+}
+header {
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post {
+    background: white;
+    margin-top: 10px;
+}
+div.post .post-header div:first-child {
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    padding: 10px;
+    color: gray;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.container {
+    width: 600px;
+    margin: auto;
+}
+div.post img {
+    width: 100%;
+>>>>>>> 684ad8ff0a73b8a1329f28ee3b982dd9b32828af
 }

@@ -21,6 +21,7 @@ body {
     justify-content: space-between; 
     align-items: center; 
     margin: 5px 15px 5px 15px;
+    padding: 10px;
 }
 
 .html5icon, .dots {
@@ -29,12 +30,13 @@ body {
 }
 
 .footer-p {
-    padding: 15px;
+    padding: 15px 25px 15px 25px;
 }
 .icons-p {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px;
     margin: 5px 15px 5px 15px;
 }
 
